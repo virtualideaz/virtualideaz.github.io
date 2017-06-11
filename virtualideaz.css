@@ -28,9 +28,8 @@ body {
 
 /*** header ***/
 .header-image {
-    background: url(../img/header.jpg) no-repeat;
-    padding: 280px 20px;
-    background-color: rgba(0,0,0,5.0); 
+    background: url("https://github.com/virtualideaz/virtualideaz.github.io/blob/master/header.jpg") no-repeat;
+    padding: 280px 20px; 
 }
 .header-image h1 {
     background-color: rgba(255,255,255,0.8);
