@@ -1,0 +1,57 @@
+/*** general css **/
+
+body {
+    font-style: Arial, Sans-serif, serif;
+    font: 400px;
+}
+
+/*** navbar css ***/
+.navbar-default {
+    background-color: transparent;
+    border-color: rgba(255,255,255, 0.4);
+    color: white;
+    
+}
+.navbar-default .navbar-brand {
+    font-size: 20px;
+    color: #FFF;
+}
+.navbar-default .navbar-nav>li>a{
+    font-size: 20px;
+    color: #FFF;
+}
+.navbar-fixed-top.scrolled { 
+    background-color: rgba(165,157,255,0.5); 
+    transition: background-color 200ms linear;
+    color: black;
+}
+
+/*** header ***/
+.header-image {
+    background: url(../img/header.jpg) no-repeat;
+    padding: 280px 20px;
+    background-color: rgba(0,0,0,5.0); 
+}
+.header-image h1 {
+    background-color: rgba(255,255,255,0.8);
+    padding: 30px;
+    margin: 30px;
+    font-style: italic;
+    font-family: Roboto;
+}
+
+/*** about section ***/
+#about {
+    padding: 30px;
+}
+.feature-image {
+    margin: auto;
+}
+.heading-text {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 30px;
+}
+.lead {
+    padding: 15px;
+}
