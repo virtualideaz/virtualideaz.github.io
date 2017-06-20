@@ -41,8 +41,7 @@ body {
 #header {
     padding: 200px 5px;
     text-align: center;
-    background: url("../img/header-image.jpeg") no-repeat center fixed;
-    /*** background: url("https://virtualideaz.github.io/header-image") no-repeat center fixed; ***/
+    background: url("https://virtualideaz.github.io/header-image") no-repeat center fixed;
     background-size: cover;
     
 } 
@@ -71,8 +70,7 @@ body {
 /*** about ***/
 #about {
     padding: 60px;
-    background: url("../img/about-background.jpg") no-repeat center fixed;
-    /*** background: url("https://virtualideaz.github.io/about-background.jpg") no-repeat center fixed; ***/
+    background: url("https://virtualideaz.github.io/about-background.jpg") no-repeat center fixed;
     background-size: cover;
 }
 #about #about-heading {
@@ -130,8 +128,7 @@ body {
 /***portfolio ***/
 #portfolio {
     padding: 60px;
-    background: url("../img/portfolio.jpg") no-repeat center fixed;
-    /*** background: url("https://virtualideaz.github.io/portfolio.jpg") no-repeat center fixed; ***/
+    background: url("https://virtualideaz.github.io/portfolio.jpg") no-repeat center fixed;
     background-size: cover;
 }
 #portfolio h1 {
@@ -146,8 +143,7 @@ body {
 /*** contact ***/
 #contact {
     padding: 200px 30px;
-    background: url(../img/get-in-touch.jpg) no-repeat center fixed;
-    /*** background: url("https://virtualideaz.github.io/get-in-touch.css") no-repeat center fixed; ***/
+    background: url("https://virtualideaz.github.io/get-in-touch.css") no-repeat center fixed;
     background-size: cover;
 } 
 .mybanner {
