@@ -70,6 +70,7 @@ body {
 }
 .profile h1 {
     font-weight: bolder;
+    position: inherit;
 }
 
 /*** about ***/
