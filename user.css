@@ -46,6 +46,7 @@ body {
     padding: 200px 50px;
     text-align: center;
     background: url("https://virtualideaz.github.io/header-image.jpeg") no-repeat fixed;
+    width: 100%
 }
 .jumbotron {
    background-color: transparent;
@@ -77,6 +78,7 @@ body {
 #about {
     padding: 60px;
     background: url("https://virtualideaz.github.io/about-background.jpg") no-repeat center fixed;
+    width: 100%;
 }
 #about #about-heading {
     color: white;
@@ -134,6 +136,7 @@ body {
 #portfolio {
     padding: 60px;
     background: url("https://virtualideaz.github.io/program.jpg") no-repeat center fixed;
+    width: 100%;
 }
 #portfolio h1 {
     font-size: 50px;
@@ -149,7 +152,7 @@ body {
 #contact {
     padding: 100px 30px;
     background: url(https://virtualideaz.github.io/get-in-touch.jpg) no-repeat center fixed;
-
+    width: 100%;
 }
 .mybanner {
     background-color: rgba(0,0,0,0.3);
