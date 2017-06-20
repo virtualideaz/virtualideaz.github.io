@@ -41,7 +41,7 @@ body {
 #header {
     padding: 200px 5px;
     text-align: center;
-    background: url("https://virtualideaz.github.io/header-image") no-repeat center fixed;
+    background: url("https://virtualideaz.github.io/header-image.jpeg") no-repeat center fixed;
     background-size: cover;
     
 } 
@@ -143,7 +143,7 @@ body {
 /*** contact ***/
 #contact {
     padding: 200px 30px;
-    background: url("https://virtualideaz.github.io/get-in-touch.css") no-repeat center fixed;
+    background: url("https://virtualideaz.github.io/get-in-touch.jpg") no-repeat center fixed;
     background-size: cover;
 } 
 .mybanner {
