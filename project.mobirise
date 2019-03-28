@@ -43,7 +43,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/simple-mademoiselle-128x128-1.png",
+    "favicon": "",
     "noImageResize": ""
   },
   "pages": {
